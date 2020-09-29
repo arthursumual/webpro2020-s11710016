@@ -28,12 +28,12 @@ function greeting(nama){
     return `Hi ${nama}`;
 }
 
-console.log(greeting('Charley'));
+console.log(greeting('Arthur'));
 
 const greeting2 = nama => `Hi ${nama}`;
 
-console.log(greeting2('Charley2'));
+console.log(greeting2('Victor'));
 
 // tanpa parameter
-const namaFungsi = () => 'Hi Charley.tp';
+const namaFungsi = () => 'Hi Arthur.tp';
 console.log(namaFungsi())

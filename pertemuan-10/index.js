@@ -3,8 +3,8 @@
 // 1. function Scope (var)
 // 2. block scope (let, const)
 
-var nama='charley';
-var nama='rantung';
+var nama='Arthur';
+var nama='Sumual';
 
 console.log(nama);
 
@@ -15,8 +15,8 @@ console.log(nama);
 
 // 2. Template Literal
 const person = {
-    fName: 'charley',
-    lName: 'rantung',
+    fName: 'Arthur',
+    lName: 'Sumual',
     age: 20,
 };
 
